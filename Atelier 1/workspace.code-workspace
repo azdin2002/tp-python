@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\Documents"
+		},
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\appl.py"
+		},
+		{
+			"path": "..\\..\\HTML\\test.html"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Desktop"
+	}
+}
